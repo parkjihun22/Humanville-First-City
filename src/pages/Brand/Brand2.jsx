@@ -50,7 +50,7 @@ const Brand2 = () => {
     name="description"
     content="천안 휴먼빌 퍼스트시티 홍보영상으로 세대 특화 설계, 공원형 대단지, 커뮤니티 시설과 성성생활권 중심 입지 및 광역 교통망을 생생하게 확인하세요."
   />
-  <link rel="canonical" href="https://www.layershop.kr/Brand/video" />
+  <link rel="canonical" href="https://sinbiapt.co.kr/Brand/video" />
   <meta name="robots" content="index,follow" />
 
   {/* OG 태그 */}
@@ -61,8 +61,8 @@ const Brand2 = () => {
     property="og:description"
     content="천안 휴먼빌 퍼스트시티 홍보영상: 공원형 대단지, 커뮤니티 시설, 성성생활권 입지와 광역 교통환경을 영상으로 확인해보세요."
   />
-  <meta property="og:url" content="https://www.layershop.kr/Brand/video" />
-  <meta property="og:image" content="https://www.layershop.kr/images/og/main.jpg" />
+  <meta property="og:url" content="https://sinbiapt.co.kr/Brand/video" />
+  <meta property="og:image" content="https://sinbiapt.co.kr/images/og/main.jpg" />
 
   {/* Twitter */}
   <meta name="twitter:card" content="summary_large_image" />
@@ -71,7 +71,7 @@ const Brand2 = () => {
     name="twitter:description"
     content="세대 설계, 커뮤니티, 공원형 대단지와 성성생활권 중심 입지를 영상으로 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.layershop.kr/images/og/main.jpg" />
+  <meta name="twitter:image" content="https://sinbiapt.co.kr/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

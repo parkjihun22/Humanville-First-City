@@ -58,7 +58,7 @@ const ComplexGuide1 = () => {
     content="천안 휴먼빌 퍼스트시티 단지배치도에서 지상 차 없는 공원형 단지 설계, 동별 배치, 커뮤니티 시설, 보행·차량 동선까지 스마트한 배치 구성을 확인하세요."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.layershop.kr/ComplexGuide/intro" />
+  <link rel="canonical" href="https://sinbiapt.co.kr/ComplexGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="성성호수공원 인접, 총 12개동 대단지의 지상 차 없는 설계. 조경, 커뮤니티, 주차·보행 동선을 고려한 단지 배치를 확인하세요."
   />
-  <meta property="og:url" content="https://www.layershop.kr/ComplexGuide/intro" />
-  <meta property="og:image" content="https://www.layershop.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://sinbiapt.co.kr/ComplexGuide/intro" />
+  <meta property="og:image" content="https://sinbiapt.co.kr/img/og/complex.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -80,8 +80,8 @@ const ComplexGuide1 = () => {
     name="twitter:description"
     content="지상 차량 없는 공원형 설계와 동별 배치, 조경, 커뮤니티, 동선 계획을 한눈에 확인해보세요."
   />
-  <meta name="twitter:image" content="https://www.layershop.kr/img/og/complex.jpg" />
-  <meta name="twitter:url" content="https://www.layershop.kr/ComplexGuide/intro" />
+  <meta name="twitter:image" content="https://sinbiapt.co.kr/img/og/complex.jpg" />
+  <meta name="twitter:url" content="https://sinbiapt.co.kr/ComplexGuide/intro" />
 
   {/* JSON-LD */}
   <script type="application/ld+json">
@@ -89,20 +89,20 @@ const ComplexGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "천안 휴먼빌 퍼스트시티 - 단지배치도",
-      "url": "https://www.layershop.kr/ComplexGuide/intro",
+      "url": "https://sinbiapt.co.kr/ComplexGuide/intro",
       "description":
         "천안 휴먼빌 퍼스트시티 단지배치도: 12개동 배치, 조경, 커뮤니티 시설, 지상 차 없는 설계와 보행·주차 동선까지 꼼꼼히 안내합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.layershop.kr/img/og/complex.jpg",
+        "contentUrl": "https://sinbiapt.co.kr/img/og/complex.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.layershop.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://www.layershop.kr/ComplexGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://sinbiapt.co.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "단지배치도", "item": "https://sinbiapt.co.kr/ComplexGuide/intro" }
         ]
       }
     })}
