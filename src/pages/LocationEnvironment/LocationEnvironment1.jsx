@@ -102,7 +102,7 @@ const LocationEnvironment1 = () => {
     content="천안 서북구 성성생활권에 위치한 천안 휴먼빌 퍼스트시티의 입지환경을 확인하세요. 부성역 신설(예정), 천안IC·두정역·천안아산역 등 교통망과 이마트·백화점·학군 등 생활 인프라, 성성호수공원 등 자연환경까지."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://sinbiapt.co.kr/LocationEnvironment/intro" />
+  <link rel="canonical" href="https://www.layershop.kr/LocationEnvironment/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -112,8 +112,8 @@ const LocationEnvironment1 = () => {
     property="og:description"
     content="천안 성성지구 핵심 입지: 부성역(예정), 천안IC·두정역·천안아산역 등 교통망과 불당지구 생활 인프라, 성성호수공원 등 쾌적한 자연환경까지 누리는 천안 휴먼빌 퍼스트시티."
   />
-  <meta property="og:url" content="https://sinbiapt.co.kr/LocationEnvironment/intro" />
-  <meta property="og:image" content="https://sinbiapt.co.kr/img/og/location.jpg" />
+  <meta property="og:url" content="https://www.layershop.kr/LocationEnvironment/intro" />
+  <meta property="og:image" content="https://www.layershop.kr/img/og/location.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -124,8 +124,8 @@ const LocationEnvironment1 = () => {
     name="twitter:description"
     content="천안 성성생활권의 중심 입지. 부성역 신설 예정, 천안IC·두정역·천안아산역 교통망과 이마트·백화점·병원 등 완성형 인프라, 성성호수공원까지 갖춘 입지환경을 확인하세요."
   />
-  <meta name="twitter:image" content="https://sinbiapt.co.kr/img/og/location.jpg" />
-  <meta name="twitter:url" content="https://sinbiapt.co.kr/LocationEnvironment/intro" />
+  <meta name="twitter:image" content="https://www.layershop.kr/img/og/location.jpg" />
+  <meta name="twitter:url" content="https://www.layershop.kr/LocationEnvironment/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -133,20 +133,20 @@ const LocationEnvironment1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "천안 휴먼빌 퍼스트시티 - 입지환경",
-      "url": "https://sinbiapt.co.kr/LocationEnvironment/intro",
+      "url": "https://www.layershop.kr/LocationEnvironment/intro",
       "description":
         "천안 서북구 성성생활권에 위치한 천안 휴먼빌 퍼스트시티의 입지환경. 부성역(예정), 천안IC·두정역·KTX 천안아산역 등 교통망과 이마트·백화점·학군·공원 등 생활환경과 자연을 모두 갖춘 입지를 확인해보세요.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://sinbiapt.co.kr/img/og/location.jpg",
+        "contentUrl": "https://www.layershop.kr/img/og/location.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://sinbiapt.co.kr/" },
-          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://sinbiapt.co.kr/LocationEnvironment/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.layershop.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "입지환경", "item": "https://www.layershop.kr/LocationEnvironment/intro" }
         ]
       }
     })}
