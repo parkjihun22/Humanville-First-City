@@ -56,7 +56,7 @@ const ComplexGuide3 = () => {
     name="description"
     content="천안 휴먼빌 퍼스트시티의 커뮤니티 시설을 소개합니다. 피트니스센터, 실내 골프연습장, 작은도서관(북카페), 주민 라운지 등 입주민의 삶을 풍요롭게 하는 다양한 공간을 확인하세요."
   />
-  <link rel="canonical" href="https://www.layershop.kr/ComplexGuide/community" />
+  <link rel="canonical" href="https://www.dwbsongs.com/ComplexGuide/community" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -67,8 +67,8 @@ const ComplexGuide3 = () => {
     property="og:description"
     content="피트니스, 실내골프, 작은도서관, 주민 라운지 등 다채로운 커뮤니티 공간으로 일상의 품격을 더하는 천안 휴먼빌 퍼스트시티."
   />
-  <meta property="og:url" content="https://www.layershop.kr/ComplexGuide/community" />
-  <meta property="og:image" content="https://www.layershop.kr/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.dwbsongs.com/ComplexGuide/community" />
+  <meta property="og:image" content="https://www.dwbsongs.com/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />
