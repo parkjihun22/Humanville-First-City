@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "천안 휴먼빌 퍼스트시티", url: "https://www.dwbsongs.com/" },
+  { name: "천안 휴먼빌 퍼스트시티", url: "https://www.abcya4.com/" },
 ];
 
 const Footer = () => {

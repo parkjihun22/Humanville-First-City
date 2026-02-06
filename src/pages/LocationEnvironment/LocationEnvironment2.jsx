@@ -51,7 +51,7 @@ const LocationEnvironment1 = () => {
     name="description"
     content="천안 휴먼빌 퍼스트시티 프리미엄을 확인하세요. 총 1,541세대 대단지, 지상 차 없는 공원형 단지, 부성역(예정)과 천안IC·두정역 등 광역 교통망, 특화 커뮤니티와 성성호수공원 인접 자연환경까지 모두 갖췄습니다."
   />
-  <link rel="canonical" href="https://www.dwbsongs.com/LocationEnvironment/primium" />
+  <link rel="canonical" href="https://www.abcya4.com/LocationEnvironment/primium" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

@@ -57,7 +57,7 @@ const ComplexGuide1 = () => {
     name="description"
     content="천안 휴먼빌 퍼스트시티 동·호수 배치도를 통해 세대별 위치, 조망과 일조, 프라이버시를 고려한 동·라인 구성을 확인하세요. 코어 동선 및 스택 정보도 함께 안내합니다."
   />
-  <link rel="canonical" href="https://www.dwbsongs.com/ComplexGuide/detailintro" />
+  <link rel="canonical" href="https://www.abcya4.com/ComplexGuide/detailintro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -68,8 +68,8 @@ const ComplexGuide1 = () => {
     property="og:description"
     content="세대별 위치, 조망·일조, 프라이버시를 고려한 동·호수 배치와 라인·스택 구성, 코어 동선 정보를 확인하세요."
   />
-  <meta property="og:url" content="https://www.dwbsongs.com/ComplexGuide/detailintro" />
-  <meta property="og:image" content="https://www.dwbsongs.com/img/og/complex.jpg" />
+  <meta property="og:url" content="https://www.abcya4.com/ComplexGuide/detailintro" />
+  <meta property="og:image" content="https://www.abcya4.com/img/og/complex.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />

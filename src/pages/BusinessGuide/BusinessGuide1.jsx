@@ -68,7 +68,7 @@ const BusinessGuide1 = () => {
     content="충청남도 천안시 서북구 부대동에 조성되는 천안 휴먼빌 퍼스트시티의 사업 개요를 확인하세요. 총 1,541세대(지하 3층~지상 33층, 12개동), 전용 84㎡ 단일 구성, 입지·규모·입주 정보를 안내합니다."
   />
   <meta name="robots" content="index,follow" />
-  <link rel="canonical" href="https://www.dwbsongs.com/BusinessGuide/intro" />
+  <link rel="canonical" href="https://www.abcya4.com/BusinessGuide/intro" />
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
@@ -78,8 +78,8 @@ const BusinessGuide1 = () => {
     property="og:description"
     content="천안 서북구 성성생활권 중심, 총 1,541세대 대단지. 전용 84㎡ 단일 타입, 입지·규모·입주 일정을 한눈에 확인하세요."
   />
-  <meta property="og:url" content="https://www.dwbsongs.com/BusinessGuide/intro" />
-  <meta property="og:image" content="https://www.dwbsongs.com/img/og/business.jpg" />
+  <meta property="og:url" content="https://www.abcya4.com/BusinessGuide/intro" />
+  <meta property="og:image" content="https://www.abcya4.com/img/og/business.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -90,8 +90,8 @@ const BusinessGuide1 = () => {
     name="twitter:description"
     content="천안 휴먼빌 퍼스트시티 사업 개요: 총 1,541세대, 전용 84㎡ 단일 타입 구성, 성성생활권 입지와 입주 예정 정보 안내."
   />
-  <meta name="twitter:image" content="https://www.dwbsongs.com/img/og/business.jpg" />
-  <meta name="twitter:url" content="https://www.dwbsongs.com/BusinessGuide/intro" />
+  <meta name="twitter:image" content="https://www.abcya4.com/img/og/business.jpg" />
+  <meta name="twitter:url" content="https://www.abcya4.com/BusinessGuide/intro" />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
   <script type="application/ld+json">
@@ -99,20 +99,20 @@ const BusinessGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "천안 휴먼빌 퍼스트시티 - 사업안내",
-      "url": "https://www.dwbsongs.com/BusinessGuide/intro",
+      "url": "https://www.abcya4.com/BusinessGuide/intro",
       "description":
         "충청남도 천안시 서북구 부대동에 조성되는 천안 휴먼빌 퍼스트시티의 사업 개요와 위치, 규모, 전용 84㎡ 구성, 입주 예정 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.dwbsongs.com/img/og/business.jpg",
+        "contentUrl": "https://www.abcya4.com/img/og/business.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.dwbsongs.com/" },
-          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.dwbsongs.com/BusinessGuide/intro" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.abcya4.com/" },
+          { "@type": "ListItem", "position": 2, "name": "사업안내", "item": "https://www.abcya4.com/BusinessGuide/intro" }
         ]
       }
     })}

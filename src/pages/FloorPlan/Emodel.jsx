@@ -62,7 +62,7 @@ const handleOpenVr = () => {
           content="천안 휴먼빌 퍼스트시티 E-모델하우스를 온라인으로 편리하게 체험하세요. VR 가상 투어와 전용 84㎡ A·B·C·D 타입별 평면도 및 인테리어를 생생하게 확인하실 수 있습니다."
         />
         <meta name="robots" content="index,follow" />
-        <link rel="canonical" href="https://www.dwbsongs.com/FloorPlan/Emodel" />
+        <link rel="canonical" href="https://www.abcya4.com/FloorPlan/Emodel" />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
@@ -72,8 +72,8 @@ const handleOpenVr = () => {
           property="og:description"
           content="천안 휴먼빌 퍼스트시티 E-모델하우스: VR 투어와 전용 84㎡ A·B·C·D 타입별 평면도 및 인테리어를 통해 실감 나는 공간을 확인하세요."
         />
-        <meta property="og:url" content="https://www.dwbsongs.com/FloorPlan/Emodel" />
-        <meta property="og:image" content="https://www.dwbsongs.com/img/og/emodel.jpg" />
+        <meta property="og:url" content="https://www.abcya4.com/FloorPlan/Emodel" />
+        <meta property="og:image" content="https://www.abcya4.com/img/og/emodel.jpg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
@@ -84,8 +84,8 @@ const handleOpenVr = () => {
           name="twitter:description"
           content="천안 휴먼빌 퍼스트시티 E-모델하우스를 온라인으로 체험하세요. VR 투어와 전용 84㎡ A~D타입 평면도와 인테리어를 한눈에."
         />
-        <meta name="twitter:image" content="https://www.dwbsongs.com/img/og/emodel.jpg" />
-        <meta name="twitter:url" content="https://www.dwbsongs.com/FloorPlan/Emodel" />
+        <meta name="twitter:image" content="https://www.abcya4.com/img/og/emodel.jpg" />
+        <meta name="twitter:url" content="https://www.abcya4.com/FloorPlan/Emodel" />
 
         {/* JSON-LD (구조화데이터) */}
         <script type="application/ld+json">
@@ -93,24 +93,24 @@ const handleOpenVr = () => {
             "@context": "https://schema.org",
             "@type": "WebPage",
             name: "천안 휴먼빌 퍼스트시티 - E-모델하우스",
-            url: "https://www.dwbsongs.com/FloorPlan/Emodel",
+            url: "https://www.abcya4.com/FloorPlan/Emodel",
             description:
               "천안 휴먼빌 퍼스트시티 E-모델하우스를 온라인으로 편리하게 체험하세요. 전용 84㎡ A·B·C·D 타입별 평면도와 인테리어, VR 가상 투어를 확인할 수 있습니다.",
             primaryImageOfPage: {
               "@type": "ImageObject",
-              contentUrl: "https://www.dwbsongs.com/img/og/emodel.jpg",
+              contentUrl: "https://www.abcya4.com/img/og/emodel.jpg",
               width: 1200,
               height: 630,
             },
             breadcrumb: {
               "@type": "BreadcrumbList",
               itemListElement: [
-                { "@type": "ListItem", position: 1, name: "홈", item: "https://www.dwbsongs.com/" },
+                { "@type": "ListItem", position: 1, name: "홈", item: "https://www.abcya4.com/" },
                 {
                   "@type": "ListItem",
                   position: 2,
                   name: "E-모델하우스",
-                  item: "https://www.dwbsongs.com/FloorPlan/Emodel",
+                  item: "https://www.abcya4.com/FloorPlan/Emodel",
                 },
               ],
             },

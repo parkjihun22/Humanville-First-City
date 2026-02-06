@@ -53,7 +53,7 @@ const Brand1 = () => {
     name="description"
     content="일신건영 휴먼빌 브랜드 철학과 가치를 소개합니다. 실용적 설계와 믿을 수 있는 품질로 천안의 새로운 주거 기준을 제시하는 천안 휴먼빌 퍼스트시티."
   />
-  <link rel="canonical" href="https://www.dwbsongs.com/Brand/intro" />
+  <link rel="canonical" href="https://www.abcya4.com/Brand/intro" />
   <meta name="robots" content="index,follow" />
 
   {/* Open Graph */}
@@ -64,8 +64,8 @@ const Brand1 = () => {
     property="og:description"
     content="휴먼빌 브랜드 소개: 실용성과 신뢰, 차별화된 공간 설계로 프리미엄 주거 가치를 실현하는 천안 휴먼빌 퍼스트시티."
   />
-  <meta property="og:url" content="https://www.dwbsongs.com/Brand/intro" />
-  <meta property="og:image" content="https://www.dwbsongs.com/images/og/main.jpg" />
+  <meta property="og:url" content="https://www.abcya4.com/Brand/intro" />
+  <meta property="og:image" content="https://www.abcya4.com/images/og/main.jpg" />
 </Helmet>
 
 <Header isChanged={isScroll} />
