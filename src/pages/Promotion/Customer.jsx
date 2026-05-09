@@ -161,7 +161,7 @@ export default function Customer() {
               <i className="icon-phone" />
               <div className={styles.infoText}>
                 <strong>대표번호</strong>
-                <span>1533-8848</span>
+                <span>1688-1052</span>
               </div>
             </div>
             <div className={styles.custItem}>
