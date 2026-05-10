@@ -25,7 +25,7 @@ const menuArray = [
     title: "사업개요",
     subMenu: [
       { subTitle: "사업안내", subUrl: "/BusinessGuide/intro" },
-      // { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
+      { subTitle: "분양일정", subUrl: "/BusinessGuide/plan" },
     ],
   },
   {
